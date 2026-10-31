@@ -64,60 +64,47 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Datagen is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by scale-venture-partners) and added to the network as a stub for full-pipeline profiling.
+Datagen is a technology startup identified in the API Evangelist harvest backlog, sourced from VC‑portfolio data and backed by Scale Venture Partners. It is currently represented as a stub pending full profiling. The only public URL associated with Datagen (https://datagen.tech) returns a 409 Conflict response and does not provide a conventional website or documentation, and no API endpoints or developer resources have been discovered.
 
-**Areas:** Company
+**Areas:** Company · Technology · Startup · Venture-backed · Data
 
 ## Datagen on APIs.io
 
 Everything profiled for Datagen is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/datagen/](https://apis.io/providers/datagen/)** — or go straight to one of the APIs or properties below.
 
-## Where to find this API
+### Published properties
 
-Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- [Website](https://datagen.tech/)
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Datagen Authentication](https://apis.io/security/datagen/datagen-authentication/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Datagen Scopes](https://apis.io/scopes/datagen/datagen-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Datagen Plans Pricing](https://apis.io/plans/datagen/datagen-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Datagen Rate Limits](https://apis.io/rate-limits/datagen/datagen-rate-limits/)
 
 ## API Evangelist rating
 
-**Kin Score 0.4** — minimal · rubric 0.24.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 26.8 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
-
-**Agent readiness 3.1** — human-only
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/datagen/](https://apis.io/providers/datagen/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
